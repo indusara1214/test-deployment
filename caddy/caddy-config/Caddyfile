@@ -1,0 +1,3 @@
+test-deployement{
+	reverse_proxy localhost:9005
+}
